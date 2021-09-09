@@ -4,3 +4,4 @@ This is a repository created by *Firstname*
 Run this command to execute the application: `python filename.py`
 # Breaking News
 `cat saved dog from tree`
+new line
